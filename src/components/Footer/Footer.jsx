@@ -19,15 +19,8 @@ export const Footer = () => {
           <a href="/">Corporate Information</a>
           <a href="/">Contact Us</a>
           <a href="/">Terms of Use</a>
-          <a href="/">Privacy</a>
-          <a href="/">Cookie Preferences</a>
-          <a href="/">Corporate Information</a>
-          <a href="/">Contact Us</a>
-          <a href="/">Contact Us</a>
-          <a href="/">Contact Us</a>
-          <a href="/">Contact Us</a>
         </div>
-        <p className="footer-text">© 2025 Netflix Clone by You</p>
+        <p className="footer-text">© 2025 Netflix Clone</p>
       </div>
     </footer>
   )

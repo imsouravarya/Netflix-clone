@@ -16,7 +16,7 @@ export const Home = () => {
         <div className="hero">
           <img  src={hero_1} id="hero-iamge" alt="hero-image" />
           <div className="hero-text">
-            <h1>The UnderDressed Person</h1>
+            <h1>Hello there !!</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Voluptatibus voluptatum hic, nemo adipisci minima iusto provident.
