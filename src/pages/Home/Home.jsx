@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import Navbar from '../../components/Navbar/navbar';
+import Navbar from '../../components/Navbar/Navbar';
 import hero_1 from '../../assets/hero_011.png';
 import Titlecards from '../../components/TitleCards/Titlecards';
 import Footer from '../../components/Footer/Footer';
