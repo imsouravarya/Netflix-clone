@@ -2,6 +2,7 @@ import React from 'react';
 import "./Intro.css";
 import ArrowLeft from "../../assets/svg image of back ar.png";
 import { useNavigate } from 'react-router-dom';
+import video from "./public/invideo-ai-1080 The Truth Behind My React Website Thumbn 2025-08-20.mp4"
 
 export const Intro = () => {
   const navigate = useNavigate();
@@ -15,7 +16,7 @@ export const Intro = () => {
         muted 
         controls
       >
-        <source src="./public/invideo-ai-1080 The Truth Behind My React Website Thumbn 2025-08-20.mp4" type="video/mp4" />
+        <source src={video} type="video/mp4" />
         Your browser does not support the video tag.
       </video>
     </div>
